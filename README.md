@@ -9,7 +9,7 @@
  
 ## CeVOX DiffSinger Training Notebook [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/UtaUtaUtau/cevox-ai-svs-notebooks/blob/main/CeVOX%20DiffSinger%20Training%20Notebook.ipynb)
 
- This notebook is for training DiffSinger models. It only takes in DiffSinger formatted dataset to encourage proper data refinement. It can also take in datasets that have gone through binarization already. Checkpoints are saved in the user's Google Drive.
+ This notebook is for training DiffSinger models. It only takes in DiffSinger formatted datasets to encourage proper data refinement. It can also take in datasets that have gone through binarization. Checkpoints are saved in the user's Google Drive.
  
 ## CeVOX English Whisper Timed Transcription+MFA Forced Alignment [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/UtaUtaUtau/cevox-ai-svs-notebooks/blob/main/CeVOX%20English%20Whisper%20Timed%20Transcription%2BMFA%20Forced%20Alignment.ipynb)
 
